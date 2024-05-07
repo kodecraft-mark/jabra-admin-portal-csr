@@ -1,0 +1,12 @@
+pub mod counterparty;
+pub mod currency;
+pub mod currency_pair;
+pub mod defaults;
+pub mod login;
+pub mod quote;
+pub mod trade;
+pub mod user;
+pub mod loan;
+pub mod coinbase;
+pub mod wallet;
+pub mod interestrates;
