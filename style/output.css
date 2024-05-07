@@ -5124,14 +5124,6 @@ details.collapse summary::-webkit-details-marker{
     display: flex;
   }
 
-  .md\:contents{
-    display: contents;
-  }
-
-  .md\:hidden{
-    display: none;
-  }
-
   .md\:text-sm{
     font-size: 0.875rem;
     line-height: 1.25rem;
