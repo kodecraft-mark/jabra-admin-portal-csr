@@ -1,4 +1,4 @@
-use admin_portal_csr::App;
+use jabra_admin_portal_csr::App;
 use leptos::*;
 
 fn main() {
