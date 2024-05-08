@@ -44,4 +44,4 @@ RUN cargo install trunk@0.19.3 \
 EXPOSE 8080
 
 # Start your app
-CMD ["trunk", "serve", "--release", "-v"]
+CMD ["trunk", "serve", "--release", "-v", "--port", "8050"]
