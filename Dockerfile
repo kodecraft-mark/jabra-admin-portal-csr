@@ -41,7 +41,7 @@ RUN cargo install trunk@0.19.3 \
 # RUN npm install -D daisyui@latest
 
 # Expose port 8080
-EXPOSE 3000
+EXPOSE 8080
 
 # Start your app
 CMD ["trunk", "serve", "--release", "-v"]
